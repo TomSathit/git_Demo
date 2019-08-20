@@ -1,2 +1,2 @@
 s =50
-print(s)
+print(s*2)
